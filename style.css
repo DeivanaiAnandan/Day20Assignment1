@@ -1,0 +1,28 @@
+body {
+    background-color:#330066;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .card {
+    background-color: #7093ff;
+    width: 80%;
+    max-width: 700px;
+    height:40vh;
+  }
+  .card-body {
+    padding: 40px;
+  }
+  h2{
+    color: white;
+  }
+button{
+    background-color:#330066!important;
+    color: white!important;
+}
+.blockquote-footer{
+    color:#330066!important;
+}
+  
